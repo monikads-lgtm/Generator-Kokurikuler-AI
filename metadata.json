@@ -1,0 +1,6 @@
+{
+  "name": "Generator Kokurikuler",
+  "description": "Asisten AI Ahli perancang Rencana Pembelajaran Kokurikuler instan, bermakna, berkesadaran, dan menggembirakan sesuai Panduan Kemendikdasmen RI 2025.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
